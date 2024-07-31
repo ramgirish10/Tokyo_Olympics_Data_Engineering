@@ -50,3 +50,5 @@ The dataset will be updated with details about medals (gold, silver, bronze) and
 ## 📝 Conclusion
 This project sets up a comprehensive data pipeline using Azure services for ingesting, transforming, analyzing, and visualizing Tokyo 2021 Olympics data. The setup enables users to gain insights and create detailed reports and dashboards to understand the athletes' performances, team compositions, and other critical aspects of the Olympics.
 
+## 📸 Screenshots
+![Architecture](https://github.com/user-attachments/assets/52568f16-43e4-45f4-8e92-37ae361fe2e2)
